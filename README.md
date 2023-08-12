@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am a dedicated and enthusiastic web developer with a strong foundation in programming languages like C/C++, React, Python, and SQL. My passion lies in creating visually appealing and user-friendly websites using HTML, CSS, and JavaScript, along with frameworks like Bootstrap and Material UI. Additionally, I have a growing interest in machine learning and have successfully applied various algorithms to solve real-world problems. With a keen eye for detail and a constant desire to learn, I am eager to contribute to innovative projects and thrive in collaborative environments.<br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sneha-manna-385a87235/) 
 
