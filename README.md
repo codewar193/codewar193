@@ -4,7 +4,6 @@ I am a dedicated and enthusiastic web developer with a strong foundation in prog
 
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sneha-manna-385a87235/) 
 
